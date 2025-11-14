@@ -47,7 +47,7 @@ def convert_to_webp(input_folder, output_folder, quality=70):
 
 
 # ---------------------------
-# Example usage
+# hardcoded usage
 # ---------------------------
 
 input_folder = "original_images"
